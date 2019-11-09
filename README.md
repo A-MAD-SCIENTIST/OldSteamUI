@@ -4,7 +4,7 @@ This was made to get rid of the new ugly Steam UI and revert it back to the old 
 
 You can find a VirusTotal scan of the .exe [here](https://www.virustotal.com/gui/file/409e9398c4b9eb8d62d7ac59191131133ac499b6ebaefa04d59917e72cf11af6/detection) :)
 
-# What does it actaully do?
+# What does it actually do?
 
 It's quite simple really. All It does is downloads the old Steam files from the Internet and extracts them to the Steam Dir (that's why some AVs may flag it as malware).
 
