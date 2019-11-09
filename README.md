@@ -22,6 +22,6 @@ You should then follow the on-screen instructions on the software.
 
 # How do I revert back to the new UI?
 
-Browse to Steam Directory and delete the 'steam.cfg' file. 
+Make sure Steam is fully close, then browse to Steam Directory and delete the 'steam.cfg' file. 
 
 Launch Steam and it will error out, ignore and relaunch. Login, close, and relaunch again to have the new UI.
